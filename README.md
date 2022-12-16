@@ -1,6 +1,6 @@
 # Heart-Disease-Analysis
 
-**In this project, we analyze different attributes/parameters that indicate heart disease among men and women.**
+**In this project, we analyzed different attributes/parameters that indicate heart disease among men and women.**
 
 We prepared, transformed, and performed Exploratory Data Analysis on the data to answer questions like:
 1. What is the mean age of patients?
