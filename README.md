@@ -8,7 +8,7 @@ We prepared, transformed, and performed Exploratory Data Analysis on the data to
 3. What parameters are highly correlated with heart disease?
 4. Does a particular chest pain indicate heart disease?
 
-, and gain insights into which different attributes/parameters indicate heart disease among patients.
+and gain insights into which different attributes/parameters indicate heart disease among patients.
 ****
 ### Real-world applications
 
